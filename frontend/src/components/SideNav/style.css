@@ -1,0 +1,13 @@
+#side-nav{
+  width: 250px;
+  font-family: 'Roboto';
+  top: 52px;
+}
+
+.nav-item-icon {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.nav-item-title {
+  color: rgba(0, 0, 0, 0.87);
+}

@@ -1,0 +1,34 @@
+header{
+  font-family: 'Roboto';
+  background-color: #0199D2;
+  color: #FFF;
+  height: 52px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 3;
+}
+
+.logo{
+  margin-left: 36px;
+}
+
+#title {
+  font-weight: 800;
+  font-size: 1.1rem;
+}
+
+#welcome{
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+#welcome div i{
+  width: 25px;
+  height: 16px;
+}
+
+#welcome div p{
+  font-size: 0.8rem;
+}

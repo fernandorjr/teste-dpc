@@ -1,0 +1,17 @@
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Data.dll
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Models.dll
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Data.pdb
+C:\Dev\DPC\backend\Repositories\bin\Debug\net6.0\Models.pdb
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Dev\DPC\backend\Repositories\obj\Debug\net6.0\ref\Repositories.dll

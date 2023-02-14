@@ -1,0 +1,12 @@
+#page-title h1 {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.9rem;
+  line-height: 150%;
+
+  letter-spacing: 0.276866px;
+
+  /* Azul_escuro_DPC */
+  color: #10488d;
+}

@@ -1,0 +1,22 @@
+.nav-tabs .nav-link.active {
+  border-bottom-color: #807f7f !important;
+  background-color: #807f7f !important;
+  color: #fff;
+}
+
+.nav-tabs .nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top-left-radius: 0.45rem !important;
+  border-top-right-radius: 0.45rem !important;
+  text-transform: uppercase;
+  height: 31px;
+  background-color: #adacac;
+  margin-top: 0.25rem;
+  font-size: 15px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  color: #fff;
+}

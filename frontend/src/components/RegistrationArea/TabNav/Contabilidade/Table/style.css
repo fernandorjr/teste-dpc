@@ -1,0 +1,21 @@
+table {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #b9b9b9;
+}
+
+th {
+  background: rgba(0, 0, 0, 0.06);
+  text-align: center;
+  min-width: 120px;
+  padding: 12px 10px !important;
+}
+
+td {
+  text-align: center;
+  padding: 12px 10px !important;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}

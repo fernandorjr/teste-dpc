@@ -1,0 +1,9 @@
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #0199d2;
+  font-weight: bold;
+  color: #fff;
+  font-size: 18px;
+}

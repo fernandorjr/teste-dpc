@@ -1,0 +1,24 @@
+#client-form {
+  font-family: "Source Sans Pro";
+}
+
+#client-form .form-label {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  letter-spacing: 0.125373px;
+}
+
+#client-form .form-control, #client-form select {
+  height: 1.6x;
+  border: 1px solid #939393;
+  border-radius: 2px;
+}
+
+#client-form input:disabled {
+  height: 1.6x;
+  border: none;
+  border-radius: 0;
+}
+
